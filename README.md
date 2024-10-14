@@ -2,6 +2,12 @@
 
 In this project, a video game called parking-jam has been developed. This video game consists of getting a red car to get out of a parking lot in which it is trapped by other vehicles.
 
+## Authors
+- Sonia Gallego Trapero [SoniaGaTr](https://github.com/SoniaGaTr)
+- Lucas Coronel Naranjo [Lucascn3](https://github.com/Lucascn3)
+- Isabella Chaves Gómez [isabellachgo](https://github.com/isabellachgo)
+- Raúl López Soto [RaulLopezSoto](https://github.com/RaulLopezSoto)
+
 ## Table of Contents
 
 * [Introduction](#introduction)
@@ -11,7 +17,6 @@ In this project, a video game called parking-jam has been developed. This video 
 * [How to use](#how-to-use)
 	* [Play](#play)
 	* [Save and load games](#save-and-load-games)
-* [Authors](#authors)
 
 ## Introduction ##
 ### Download project ###
@@ -80,10 +85,5 @@ When you save a game, a folder will be created in the directory indicated above.
 - another with the movement history of the unfinished level if there is one 
 - and a last one with the status of the level unfinished if there is one, which will have the format of a level file
 
-## Authors
-- Sonia Gallego Trapero
-- Lucas Coronel Naranjo
-- Isabella Chaves Gómez
-- Raúl López Soto
 
 
