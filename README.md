@@ -25,7 +25,7 @@ In this project, a video game called parking-jam has been developed. This video 
 - [Maven](<https://maven.apache.org/install.html>) (versión 3.6.0 o superior)
 
 #### Instructions ####
-1. Clone the git repsitory:  `git clone https://costa.ls.fi.upm.es/gitlab/210241/parking-jam.git`
+1. Clone the git repsitory:  `git clone https://github.com/SoniaGaTr/Parking-jam.git`
 
 ### Run tests ###
 1. Go to the root directory of the repository inyour terminal
